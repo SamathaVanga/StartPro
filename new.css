@@ -1,0 +1,31 @@
+    body{ background-image: url("https://www.teahub.io/photos/full/63-638490_wallpaper-cute-little-girl-child-doll-beach-iphone.jpg");
+    background-size: cover;
+ 
+   
+        font-style: italic;
+     font-weight:bolder;
+     font-stretch: ultra-expanded;
+     font-size: larger;
+     font-family: cursive;
+     
+    
+    }
+   
+   a:link {
+     color: red;
+   }
+   a:link {
+     text-decoration: none;
+     
+     ;
+   }
+   a:hover {
+     color:rgb(231, 7, 119) ;
+   }
+   pre
+   {
+       font-size:x-large;
+       font-style: italic;
+      
+   }
+   
